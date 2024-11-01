@@ -1,4 +1,4 @@
-Below is a step-by-step guideline for reproducing the reported experimental results:
+Below is a step-by-step guideline for reproducing the reported experimental results (Note: The main experimental codes are based on and modified from https://github.com/lorenzkuhn/semantic_uncertainty):
 
 1. Data preparation: 
 - (a) set the paths for huggingface model and dataset cache in ```config.py```. 
