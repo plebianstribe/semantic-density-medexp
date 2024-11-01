@@ -1,5 +1,5 @@
 License
-The following license governs the use of SEPX Software in academic
+The following license governs the use of semantic density Software in academic
 and educational environments. Commercial use requires a commercial license from
 Cognizant Technology Solutions Corp, www.cognizant.com.
 
