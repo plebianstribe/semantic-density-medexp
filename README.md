@@ -25,6 +25,7 @@ Please read the detailed step-by-step guideline inside folder ```experiment_code
 
 ## Citation
 If you find semantic density or the medical case study useful, please cite the following:
+
 Original paper
 ```
 @inproceedings{qiu2024semantic,
@@ -34,7 +35,7 @@ booktitle={The Thirty-eighth Annual Conference on Neural Information Processing 
 year={2024},
 }
 ```
-Our paper
+Medical Explanation paper (This repository)
 ```
 @inproceedings{
 tan2025tiny,
