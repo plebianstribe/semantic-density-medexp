@@ -1,5 +1,7 @@
-# semantic-density-paper
-This repo contains the source code for reproducing the experimental results reported in paper: "Semantic Density: Uncertainty Quantification for Large Language Models through Confidence Measurement in Semantic Space", which is accepted to Neurips 2024 (Arxiv link: https://arxiv.org/abs/2405.13845).
+# semantic-density-medexp
+This repo will contain the source code for reproducing the experimental results reported in paper: "TINY: Semantic-based Uncertainty Quantification in LLMS: A Case Study on Medical Explanation Generation Task.", which is accepted to ICLR 2025 QUESTION workshop (Arxiv link: to be updated).
+
+Note: this repository is currently forked directly from the main paper, additional commits for the medical explanation datasets and experiments will be added as soon as possible.
 
 ## Environment Setup
 
@@ -22,13 +24,24 @@ Below are the step-by-step guideline for setting up the experiment environment:
 Please read the detailed step-by-step guideline inside folder ```experiment_code``` to generate the experimental results.
 
 ## Citation
-
-If you find semantic density useful, please cite it using the following BibTeX entry:
+If you find semantic density or the medical case study useful, please cite the following:
+Original paper
 ```
 @inproceedings{qiu2024semantic,
 title={Semantic Density: Uncertainty Quantification for Large Language Models through Confidence Measurement in Semantic Space},
 author={Qiu, Xin and Miikkulainen, Risto},
 booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
 year={2024},
+}
+```
+Our paper
+```
+@inproceedings{
+tan2025tiny,
+title={{TINY}: Semantic-based Uncertainty Quantification in {LLMS}: A Case Study on Medical Explanation Generation Task.},
+author={Nicholas Kian Boon Tan and Mehul Motani},
+booktitle={ICLR Workshop: Quantify Uncertainty and Hallucination in Foundation Models: The Next Frontier in Reliable AI},
+year={2025},
+url={https://openreview.net/forum?id=54xTSlq9ts}
 }
 ```
